@@ -1,0 +1,179 @@
+*{
+ 
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+    height: max-content;
+}
+.container2{
+    position: relative;
+    right: 150px;
+}
+.top-contain-left{
+    position: relative;
+    display: flex;
+    justify-items: right;
+}
+.container3{
+    display: flex;
+    position: relative;
+    top: 10px; 
+}
+.img-gov{
+    height: 100px;
+    width: 120px;
+}
+.indiagov{
+    font-size: x-large;
+    color:blue;
+}
+.text1,.text{
+    width: 250px;
+    position: relative;
+    right: 80px;
+}  
+.logo-5{
+    display: flex;
+    position: relative;
+    right: 180px;   
+   align-items: center;
+}
+.button{
+    position: relative;
+    top: 5px;   
+    right: 10px;
+    text-align: center;
+    background-color:bisque;
+}
+.container4{
+    background-color: blue;
+    height: 60px;
+}
+.searched{
+    position: relative;
+    right: 45px;
+}
+.search-box-color,.most-searched-right,.most-searched-right-text{
+    display: flex;
+}
+.most-searched-right-text{
+    position: relative;
+    bottom: 8px;
+}
+.container5{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+}
+.eye{
+    position: relative;
+    left: 40px;
+}
+.agri-content-right{
+    cursor: pointer;
+    color: blue;
+}
+.separate-box{
+    height: 20px;
+    width: 100px;
+    border: 2px black solid;
+    text-align: center;
+
+}
+.agri-center-content{
+    border: 2px black solid;
+    width: 50%;
+    position:relative;
+    left: 320px;
+    cursor: pointer; 
+}
+.box-container{
+    display: flex;
+    position: relative;
+    left: 300px;
+}
+.box-text{
+    border: 2px black solid;
+    position: relative;
+    top: 19px;
+    cursor: pointer;
+    background-color: aqua;
+}
+.box-text:hover{
+    background-color: red;
+}
+.container6{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.agri-last-content-left{
+    position: relative;
+    left: 60px;
+    cursor: pointer;
+    color: blue;
+}
+.agri-last-content-right{
+        position: relative;
+        right: 70px;
+        color: blue;
+}
+.box:hover{
+    background-color: black;
+    color: white;
+}
+.importantlinks{
+    position: relative;
+    left: 290px;
+}
+.first-content{
+    display: flex;
+}
+.container7{
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+}
+.container8{
+    overflow-y: hidden;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.center-content-logo{
+     position: relative;
+     top: 150px;
+     right: 50px;
+}
+.container9{
+    background-color:black;
+    color: white;
+}
+.nic-logo{
+    position: relative;
+    top: 50px;
+    right: 20px;
+}
+.cqw-logo{
+    position: relative;
+    left: 1100px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
